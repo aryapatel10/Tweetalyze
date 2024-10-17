@@ -61,4 +61,4 @@ The project uses a Random Forest classifier to perform sentiment analysis on the
 Contributions are welcome! Please feel free to submit a pull request or open an issue for any improvements or suggestions.
 
 ## LICENSE
-This project is licensed under the MIT [LICENSE](https://www.google.com "Google's Homepage") - see the LICENSE file for details.
+This project is licensed under the MIT [LICENSE](https://github.com/aryapatel10/Tweetalyze/blob/main/LICENSE ) - see the LICENSE file for details.
